@@ -7,4 +7,4 @@ Warning: This is not a tutorial. I will make no attempt to catter to your experi
 # Project
 Our project for this demonstration, as a webdevops, will be a photo web app for a photographer portfolio. I'm an amateur photographer, so luckly, I'll end up with a fabulous project for displaying my photos in the end. The concept of the web app is simple enough for anyone to understand but I'll forcefuly grow it in a way that will cover all the current topics web devs and dev ops have to deal with.
 
-[Chapter 1](articles/chapter1)
+[Chapter 1](articles/chapter1.md)
