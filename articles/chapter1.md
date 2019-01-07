@@ -9,6 +9,6 @@ This is the skeleton of any web app. HTML builds the DOM (Document Object Model)
 # PROBLEMS
 
 # webdevops
-[Intro](../readme.md)
+[Intro](../README.md)
 
 [Chapter 2 - CSS](chapter2.md) 
