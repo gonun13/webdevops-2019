@@ -6,6 +6,13 @@ This is the skeleton of any web app. HTML builds the DOM (Document Object Model)
 
 # OUR PROJECT
 
+```html
+<html>
+  <head></head>
+  <body></body>
+</html>
+```
+
 # PROBLEMS
 
 # webdevops
