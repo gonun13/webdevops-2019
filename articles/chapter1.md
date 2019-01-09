@@ -35,7 +35,14 @@ So let's us start with our photography app. I'll need a menu and someway to disp
 ```
 
 # Problems
+Depending on your experience level, you'll see some issues right away. But let's start with the obvious ones.
+- *"This looks horrible!"*
 
+True! This is why we need [Chapter 2 - CSS](chapter2.md)
+- *"Your menu doesn't do anything! Don't you need links to more pages?"*
+
+With just HTML, we would. But that means repeating a lot of HTML and extra files.
+So, our first step in automation should be [Chapter 4 - Javascript](chapter4.md)
 # webdevops
 [Intro](../README.md)
 
