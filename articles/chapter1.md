@@ -5,7 +5,7 @@ This is the skeleton of any web app. HTML builds the DOM (Document Object Model)
 # Why?
 Everything has a start and this was it. It's one of the cornerstones of the web and the formatting standard needed to start the revolution. With so many modern frameworks going around that offer alternative starts to web development, you might be tempted to skip on it. But don't. Begginers should start with HTML and everyone else should try to keep it in their stacks, in one way or the other.  It's a good placeholder at the beggining of every project and for me, still the best templating base for documents.
 
-# Our project
+# The project
 
 So let's us start with our photography app.
 
@@ -48,6 +48,7 @@ True! This is why we need [CSS](chapter2.md)
 - *"Your menu doesn't do anything! Don't you need links to more pages?"*
 
 With just HTML, we would. But that means repeating a lot of HTML and extra files.
+
 So, our first step in automation should be [Javascript](chapter4.md)
 # webdevops
 | [Intro](../README.md) | [Chapter 2 - CSS](chapter2.md) |
