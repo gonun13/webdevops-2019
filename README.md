@@ -1,8 +1,8 @@
-# webdevops-2019
+# Web Development and DevOps in 2019
 An analytic approach do the world of a webdev and devops, with an angle of simplicity and automation.
 It will cover all steps, from begginner to intermediate, and even some advanced concepts. I'll try to be as pragmatic as possible and support the reasoning behind every decision.
 
-Warning: This is not a tutorial. I will make no attempt to catter to your experience level. Somethings will seem pretty obvious and others will be completely foreign. The point is to demonstrate why, in the ever groing stack of technologies, you might need to jump to the next level and/or avoid the "next big thing". I am in no way a specialist in any of what will be shown here.
+Warning: This is not a tutorial. I will make no attempt to cater to your experience level. Some things will seem basic and others very complicated. The point is to demonstrate why, in the ever growing stack of technologies, you might need to jump to the next level and/or avoid the "next big thing". I am in no way a specialist in any of what will be shown here.
 
 It's just an honest attempt at decision making in the current state of affairs.
 
