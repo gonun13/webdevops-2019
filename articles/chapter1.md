@@ -7,7 +7,11 @@ Everything has a start and this was it. It's one of the cornerstones of the web 
 
 # Our project
 
-So let's us start with our photography app. I'll need a menu and someway to display the photos.
+So let's us start with our photography app.
+
+![screenshot](http://gonun13.com/github/shot_c1_2.jpg)
+
+I'll need a menu and an area to display the photos.
 ```html
 <!DOCTYPE html>
 <html>
@@ -26,24 +30,24 @@ So let's us start with our photography app. I'll need a menu and someway to disp
       </ul>
     </nav>
     <div id="photos">
-       <img src="">
-       <img src="">
-       <img src="">
+       <img src="photos/photo1.jpg">
+       <img src="photos/photo2.jpg">
+       <img src="photos/photo3.jpg">
     </div>
   </body>
 </html>
 ```
+And this will be the result when you open in a browser.
 
+![screenshot](http://gonun13.com/github/shot_c1_1.jpg)
 # Problems
 Depending on your experience level, you'll see some issues right away. But let's start with the obvious ones.
 - *"This looks horrible!"*
 
-True! This is why we need [Chapter 2 - CSS](chapter2.md)
+True! This is why we need [CSS](chapter2.md)
 - *"Your menu doesn't do anything! Don't you need links to more pages?"*
 
 With just HTML, we would. But that means repeating a lot of HTML and extra files.
-So, our first step in automation should be [Chapter 4 - Javascript](chapter4.md)
+So, our first step in automation should be [Javascript](chapter4.md)
 # webdevops
-[Intro](../README.md)
-
-[Chapter 2 - CSS](chapter2.md) 
+| [Intro](../README.md) | [Chapter 2 - CSS](chapter2.md) |
