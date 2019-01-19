@@ -37,10 +37,12 @@ To ensure a consistent look and feel while also giving us a jumpstart, we need a
 No. It's an extra overhead for a project, with minimal gains. There are other smart ways to achieve similar results without learning extra syntax. The only valid point to waste your time on something like this it's if you're a theme designer or building [CSS Frameworks](chapter3.md)
 
 - *"Your menu still doesn't do anything..."*
+
 True. We will tackle that on [Chapter 4 - Javascript](chapter4.md)
+
 # webdevops
 [Intro](../README.md)
 
 [Chapter 1 - HTML](chapter1.md) 
 
-[Chapter 2 - CSS Frameworks](chapter3.md) 
+[Chapter 3 - CSS Frameworks](chapter3.md) 
