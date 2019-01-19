@@ -8,6 +8,9 @@ This is the second cornerstone of the web and there is also no way to avoid it. 
 
 # Our project
 
+So, let's add a folder to hold our stylesheets.
+
+
 ```code
 ```
 
