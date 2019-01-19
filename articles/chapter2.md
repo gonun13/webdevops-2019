@@ -8,11 +8,20 @@ This is the second cornerstone of the web and there is also no way to avoid it. 
 
 # Our project
 
-So, let's add a folder to hold our stylesheets.
+So, let's add a folder to hold our stylesheets...
+![folders](https://github.com/gonun13/webdevops-2019/blob/master/src/chapter2/dirs.png)
 
-
+And this will be our main.css
 ```code
 ```
+As you can see, we identify some of the elements of our HTML template and apply some style to them. Pretty straightforward. And here is the outcome...
+![screenshot](https://github.com/gonun13/webdevops-2019/blob/master/src/chapter2/shot.png)
+
+Ahhhh, much better! But is the work of a web designer over yet? Not quite...
+If we open on a mobile device this is what we will see...
+![screenshot](https://github.com/gonun13/webdevops-2019/blob/master/src/chapter2/shot2.png)
+
+Yeah, we're not quite there. We need to improve our stack a bit more.
 
 # Issues
 - *"Hey, this doesn't look the same on my browser/resolution/device!"*
