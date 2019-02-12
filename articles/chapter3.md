@@ -21,7 +21,7 @@ We will sort through them according to some requisites:
 - Easy to learn: the closer to regular HTML and CSS the better.
 - Quickstart: has samples for some layouts and themes.
 
-
+After a close race between Bulma and Pure CSS, the decision for this case will be Bulma. It's not as lightweight as Pure CSS but the semantic approach won me over. Remember, there is no right or best choice in this case but only the right and best choice for you. Define your values and then choose one.
 
 ```code
 ```
