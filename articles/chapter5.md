@@ -17,4 +17,4 @@
 - *" "*
  [Chapter 4 - Javascript](chapter4.md)
 # webdevops
-[Intro](../README.md) | [Chapter 4 - Javascript](chapter2.md)  | [Chapter 6 - Servers](chapter2.md) 
+[Intro](../README.md) | [Chapter 4 - Javascript](chapter4.md)  | [Chapter 6 - Servers](chapter6.md) 
