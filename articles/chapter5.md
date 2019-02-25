@@ -1,4 +1,4 @@
-# HTML
+# Javascript Frameworks
 
 
 # Why?
@@ -17,8 +17,4 @@
 - *" "*
  [Chapter 4 - Javascript](chapter4.md)
 # webdevops
-[Intro](../README.md)
-
-[Chapter 2 - CSS](chapter2.md) 
-
-[Chapter 2 - CSS](chapter2.md) 
+[Intro](../README.md) | [Chapter 4 - Javascript](chapter2.md)  | [Chapter 6 - Servers](chapter2.md) 
