@@ -22,4 +22,4 @@ Now, Javascript is not the easiest languages to get into. Its particular way of 
  [Chapter 4 - Javascript](chapter4.md)
  
 # webdevops
-| [Intro](../README.md) | [Chapter 3 - CSS Framework](chapter3.md) | [Chapter 5 - Javascript Framework](chapter5.md)
+| [Intro](../README.md) | [Chapter 3 - CSS Frameworks](chapter3.md) | [Chapter 5 - Javascript Frameworks](chapter5.md)
