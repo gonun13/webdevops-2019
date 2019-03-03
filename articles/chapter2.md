@@ -26,7 +26,7 @@ body {
     align-items: center;
 }
 #logo {
-    max-height: 100px;
+    max-width: 20%;
 }
 nav {
     font-family: Verdana, Geneva, Tahoma, sans-serif;
