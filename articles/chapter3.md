@@ -2,11 +2,11 @@
 
 The way to solve the consistency issue regarding your web app look & feel is to use a CSS Framework. They couple into your project by defining some standard CSS classes and normalizing all HTML elements. Then you can add your own CSS after it to customize your app.
 
-# Why use?
+## Why use?
 
 This will guaranteee you project will look the same in all devices and provide a better user experience across resolutions. It's also a great way to speed up development by proving tools to create layouts and apply themes. Finally and also very important, it will allow other designers and frontend developers to have a set of rules to adhere when it's time to expand. 
 
-# The project
+## The project
 
 What to use then? Well, you can design your own CSS framework from scratch. Sometimes a project might be big enough to justify it. But with the volume of different offerings you can find nowadays I would strongly advise against it. As an architect, you should study the market and find one that suits your needs.
 
@@ -26,13 +26,14 @@ After a close race between Bulma and Pure CSS, the decision for this case will b
 ```code
 ```
 
-# Issues
+## Issues
 - *" "*
 
  [Chapter 2 - CSS](chapter2.md)
 - *" "*
  [Chapter 4 - Javascript](chapter4.md)
-# webdevops
+
+### webdevops
 [Intro](../README.md)
 
 [Chapter 2 - CSS](chapter2.md) 
