@@ -14,7 +14,15 @@ Our project for this demonstration, as a webdevops, will be a photo web app for 
 ## Index
 
 [Chapter 1 - HTML](articles/chapter1.md)
+
 [Chapter 2 - CSS](articles/chapter2.md)
-[Chapter 3 - CSS Framework](articles/chapter3.md)
+
+[Chapter 3 - CSS Frameworks](articles/chapter3.md)
+
 [Chapter 4 - Javascript](articles/chapter4.md)
-[Chapter 5 - Javascript Framework](articles/chapter5.md)
+
+[Chapter 5 - Javascript Frameworks](articles/chapter5.md)
+
+[Chapter 6 - Git](articles/chapter6.md)
+
+[Chapter 7 - Servers](articles/chapter7.md)
