@@ -1,0 +1,30 @@
+html {
+    height: 100%;
+    width: 100%;
+    padding: 0;
+    margin: 0;
+}
+body {
+    background-color: #2f3238;
+    height: 100%;
+    width: 100%;
+    padding: 0;
+    margin: 0;
+}
+#logo {
+    max-height: 100px;
+}
+.navbar-start {
+    width: 100%;
+}
+.navbar-item {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: #969799;
+}
+.is-transparent {
+    background-color: transparent;
+    background-image: none;
+}
+#photos {
+    padding:5px;
+}
