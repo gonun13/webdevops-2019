@@ -6,9 +6,23 @@ Warning: This is not a tutorial. I will make no attempt to cater to your experie
 
 It's just an honest attempt at decision making in the current state of affairs.
 
-# Project
+## Project
 Our project for this demonstration, as a webdevops, will be a photo web app for a photographer portfolio. I'm an amateur photographer, so luckly, I'll end up with a fabulous project for displaying my own photos in the end. The concept of the web app is simple enough for anyone to understand but I'll forcefuly grow it in a way that will cover many other topics webdevs and devops have to deal with.
 
-# Let us start
+[Let us start](articles/chapter1.md)
+
+## Index
 
 [Chapter 1 - HTML](articles/chapter1.md)
+
+[Chapter 2 - CSS](articles/chapter2.md)
+
+[Chapter 3 - CSS Frameworks](articles/chapter3.md)
+
+[Chapter 4 - Javascript](articles/chapter4.md)
+
+[Chapter 5 - Javascript Frameworks](articles/chapter5.md)
+
+[Chapter 6 - Git](articles/chapter6.md)
+
+[Chapter 7 - Servers](articles/chapter7.md)
