@@ -40,7 +40,7 @@ I'll need a menu and an area to display the photos.
 And this will be the result when you open in a browser.
 
 ![screenshot](https://github.com/gonun13/webdevops-2019/blob/master/src/chapter1/article/shot.png)
-## Problems
+## Issues
 Depending on your experience level, you'll see some issues right away. But let's start with the obvious ones.
 - *"This looks horrible!"*
 
