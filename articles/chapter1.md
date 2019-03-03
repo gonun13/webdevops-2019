@@ -9,7 +9,7 @@ Everything has a start and this was it. It's one of the cornerstones of the web 
 
 So let's us start with our photography app.
 
-![screenshot](https://github.com/gonun13/webdevops-2019/blob/master/src/chapter1/article/dirs.png)
+![screenshot](https://github.com/gonun13/webdevops-2019/blob/master/src/chapter1/article/dirs1.png)
 
 I'll need a menu and an area to display the photos.
 ```html
@@ -39,7 +39,7 @@ I'll need a menu and an area to display the photos.
 ```
 And this will be the result when you open in a browser.
 
-![screenshot](https://github.com/gonun13/webdevops-2019/blob/master/src/chapter1/article/shot.png)
+![screenshot](https://github.com/gonun13/webdevops-2019/blob/master/src/chapter1/article/shot1.png)
 ## Issues
 Depending on your experience level, you'll see some issues right away. But let's start with the obvious ones.
 - *"This looks horrible!"*
