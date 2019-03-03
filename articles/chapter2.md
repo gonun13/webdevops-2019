@@ -23,19 +23,20 @@ body {
 }
 .container {
     display: flex;
+    align-items: center;
 }
 #logo {
-    width: 200px;
+    max-height: 100px;
 }
 nav {
     font-family: Verdana, Geneva, Tahoma, sans-serif;
     color: #969799;
     width: 100%;
-    padding-top:50px;
 }
 nav ul {
     display: flex;
     list-style: none;
+    align-items:center;
 }
 nav li {
     font-size: 1.2rem;
@@ -44,9 +45,10 @@ nav li {
 }
 #photos {
     display: flex;
+    align-items:center;
 }
 #photos img {
-    width: 600px;
+    max-width:33.33%;
 }
 ```
 As you can see, we identify some of the elements of our HTML template and apply some style to them. Pretty straightforward. And here is the outcome...
